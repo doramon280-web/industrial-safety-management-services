@@ -1,25 +1,15 @@
-# Industrial Safety Management Services Website
+# ISMS Version 2 Premium Website
 
-Free static website for GitHub Pages.
+Premium static website for GitHub Pages.
 
-## Pages Included
-- Home
-- About Us
-- DOSH Services
-- Noise Monitoring
-- CHRA
-- Audiometric Testing
-- Contact Us
+## Company Details Included
+Address: 63-01 Jalan Rosmerah 2/3, Taman Johor Jaya
+Telephone: 07-3535893 / 07-3535895
+Handphone: 012-7720338 / 016-3379988
+Email: info@isms.org.my
 
-## How to Host Free on GitHub Pages
-1. Create a GitHub account.
-2. Create a new repository, e.g. `industrial-safety-management-services`.
-3. Upload all files from this folder into the repository.
-4. Go to repository Settings > Pages.
-5. Source: Deploy from a branch.
-6. Branch: main, folder: /root.
-7. Save.
-8. Your site will be live at `https://yourusername.github.io/industrial-safety-management-services/`.
-
-## Customisation
-Edit company name, email, phone number and content directly in the HTML files.
+## Upload Instructions
+1. Extract this ZIP.
+2. Upload all files and the assets folder to your GitHub repository.
+3. Commit changes.
+4. GitHub Pages will rebuild automatically.
